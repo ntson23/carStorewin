@@ -1,0 +1,58 @@
+@import 'variables';
+
+
+.card-course-item{
+    margin-top: 16px;
+}
+
+.user-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.btn-light{
+display: block;
+margin-top: 15px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+
+.dropdown-toggle{
+    font-size: 20px;
+}
+
+.btn-outline-light{
+    width: 45px;
+    height: 45px;
+    // margin-top: 7px;
+    margin-left: 20px;
+    font-size: 28px;
+    padding: 0px;
+
+}
+
+.header-cart{
+    text-align: center;
+}
+
+.bi-cart3::before{
+    margin-bottom: 2px;
+}
+
+.header_cart-notice{
+    position: relative;
+    right: 27px;
+    top: -12px;
+    padding: 1px 3px;
+    font-size: 13px;
+    line-height: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+
+
+
